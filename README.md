@@ -22,7 +22,7 @@ Travelling the world of tech and experimenting with front end, back end and syst
 
 ### 🚀 Featured Projects:
 * **[Sales Dashboard](https://github.com/Sethumdhi-G/Sales-dashboard)**: Modular Java system for inventory and stock management logic.
-* **[MyTasks Tool](https://github.com/Sethumdhi-G/AI_code_reviewer)**: Collaborations with AI systems(Claude)
+* **[AI code-reviewer](https://github.com/Sethumdhi-G/AI_code_reviewer)**: Collaborations with AI systems(Claude)
 
 ---
 
