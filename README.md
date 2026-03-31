@@ -2,7 +2,7 @@
 
 **Computer Science Student | Software Development & Systems**
 
-Travelling the world of tech and experimenting with front end, back end and systems. AI and ML is a new found intrest.
+Travelling the world of tech and experimenting with front end, back end and systems. AI and ML is a new found interest.
 ---
 
 ### 🌐 Socials:
